@@ -1,0 +1,49 @@
+[
+  {
+    "name": "jason",
+    "tagline": "A minimal JSON parser, written in TypeScript",
+    "description": "jason is a toy project for parsing and formatting JSON data. It is slower than the native JSON.parse(), but not by too large of a margin. It isn't too practical since JavaScript can already parse JSON, but it was interesting to build",
+    "github":"https://github.com/ajkachnic/json",
+    "collaborators": []
+  },
+  {
+    "name": "crisp",
+    "tagline": "A little javascript minifier written in Rust, with zero dependencies",
+    "description": "crisp uses a pretty basic lexer to tokenize the Javascript and then works directly off those tokens. This cuts out the middleman of a parser, with minimal impact on it's output (maybe a couple chars more)",
+    "github": "https://github.com/ajkachnic/crisp",
+    "collaborators": []
+  },
+  {
+    "name": "koi",
+    "tagline": "A tiny (180 bytes) template engine that gets right to the point!",
+    "description": "koi is my attempt at something along the lines of a nanoid - a small utility that doesn't bring a ton of functionality, but still manages to be useful",
+    "github": "https://github.com/ajkachnic/koi",
+    "collaborators": []
+  },
+  {
+    "name": "leaphttp",
+    "tagline": "A powerful, light micro-http framework, with a focus on an extendable plugin interface, and a great developer experience",
+    "github": "https://github.com/ajkachnic/leaphttp",
+    "collaborators": [],
+    "description": "Using the lessons that I learned from my last attempt at a similar project, I built leaphttp with much simpler internals and a more powerful external API"
+  },
+  {
+    "name": "Stacc Analytics",
+    "github": "https://github.com/stacc-dev/analytics",
+    "tagline": "Privacy-first analytics your users will love",
+    "collaborators": [
+      {
+        "name": "Kognise",
+        "href": "https://github.com/kognise"
+      }
+    ],
+    "description": "This is a hackathon project, so I'm not too sure if it counts but whatever. We built a powerful analytics platform that gives you all the essential statistics, but without the privacy invasion that you don't. It totally doesn't use firebase which we didn't realize was a major flaw until after we built it... oops"
+  }, 
+  {
+    "name": "onlinx",
+    "github": "https://github.com/onlinx/core",
+    "tagline": "A fast, simple HTTP framework written in Typescript",
+    "description": "So this was my technically my second go at an http framework, but kinda just a rebranding of the original onlinx. The internals aren't nearly as clean as leaphttp (so don't read the source), but the API is moderately okay. Also I apparently didn't know monorepos were a thing because I created a whole GitHub organization to house a grand total of one repo",
+    "collborators": []
+  }
+]

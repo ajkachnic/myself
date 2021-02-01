@@ -1,0 +1,1 @@
+just some information, mainly for [my website](https://andrewkachnic.now.sh) to fetch. it's not super structured, so don't expect much
