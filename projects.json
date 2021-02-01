@@ -22,7 +22,7 @@
   },
   {
     "name": "leaphttp",
-    "tagline": "A powerful, light micro-http framework, with a focus on an extendable plugin interface, and a great developer experience",
+    "tagline": "A powerful, light micro-http framework",
     "github": "https://github.com/ajkachnic/leaphttp",
     "collaborators": [],
     "description": "Using the lessons that I learned from my last attempt at a similar project, I built leaphttp with much simpler internals and a more powerful external API"
