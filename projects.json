@@ -3,7 +3,7 @@
     "name": "jason",
     "tagline": "A minimal JSON parser, written in TypeScript",
     "description": "jason is a toy project for parsing and formatting JSON data. It is slower than the native JSON.parse(), but not by too large of a margin. It isn't too practical since JavaScript can already parse JSON, but it was interesting to build",
-    "github":"https://github.com/ajkachnic/json",
+    "github":"https://github.com/ajkachnic/jason",
     "collaborators": []
   },
   {
